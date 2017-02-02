@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/coderbunker/candobot-data/issues"
   },
-  "homepage": "https://github.com/coderbunker/candobot-data#readme"
+  "homepage": "https://github.com/coderbunker/candobot-data#readme",
+  "files": [
+    "data/"
+  ]
 }
