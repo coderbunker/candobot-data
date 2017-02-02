@@ -1,0 +1,12 @@
+Asahi draft beer 朝日啤酒	¥10
+Leffe beer 莱福啤酒	¥15
+Hoegaarden beer 福佳白啤酒	¥15
+Lindemans Gueuze beer 林德曼混酿啤酒	¥20
+Lindemans Kriek beer 林德曼樱桃啤酒	¥25
+Chimay beer 修道院啤酒	¥30
+Delirium Tremens 比利时深粉象啤酒 	¥30
+La Chouffe 舒弗啤酒	¥30
+Kasteel Donker 卡斯特黑啤酒	¥30
+Bundaberg Ginger beer 澳洲姜汁啤酒	¥30
+Goose Island ipa 美国鹅岛啤酒                             ¥35
+Old Rasputin 美国进口旧拉斯普金世涛黑啤酒	    ¥40

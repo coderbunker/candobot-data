@@ -1,0 +1,19 @@
+{
+  "name": "candobot-data",
+  "version": "1.0.0",
+  "description": "data files for candobot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/coderbunker/candobot-data.git"
+  },
+  "author": "Ricky Ng-Adam <rngadam@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/coderbunker/candobot-data/issues"
+  },
+  "homepage": "https://github.com/coderbunker/candobot-data#readme"
+}
