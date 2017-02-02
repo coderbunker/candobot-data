@@ -1,6 +1,6 @@
 {
   "name": "candobot-data",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "data files for candobot",
   "main": "index.js",
   "scripts": {
